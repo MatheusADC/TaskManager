@@ -1,7 +1,7 @@
-# Description
+# <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="description icon" width="28"> Description
 This project aims to represent the back-end of a Task Manager, where it is possible to create a task, view all tasks or a specific task by ID, edit a task by ID, and delete a task by ID.
 
-# Endpoints
+# <img src="https://github.com/user-attachments/assets/cfd74316-835c-4751-8f56-0b0ba0a540c2" alt="C# icon" width="28"> Endpoints
 ## 1. HttpPost
 ### Swagger Screen
 ![image](https://github.com/user-attachments/assets/d774ba76-33fb-40fb-b4d9-ce7e07304be4)
